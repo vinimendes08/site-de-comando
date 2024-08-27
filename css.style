@@ -1,0 +1,28 @@
+/* Título principal */
+h1 {
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    color: blue;
+}
+
+/* Título secundário */
+h2 {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    color: red;
+}
+
+/* Parágrafos */
+p {
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+/* Imagens */
+img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    margin-top: 20px;
+}
